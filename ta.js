@@ -27,7 +27,6 @@ const alfabeto = [
   'Y',
   'Z',
 ]
-
 const inputOriginal = document.getElementById('input-original')
 const cifrador = document.getElementById('cifrador')
 const resultado = document.getElementById('resultado')
